@@ -31,4 +31,4 @@ Each day focuses on a specific concept to improve your Python skills.
 
 1. Clone this repository:
 ```bash
-git clone <repository-link>
+git clone <repository-link>https://github.com/tyhan-data/python-14-days-practice.git
